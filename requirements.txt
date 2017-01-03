@@ -1,0 +1,4 @@
+Django==1.10.3
+django-hosts==2.0
+gunicorn==19.6.0
+Pillow==3.4.2
